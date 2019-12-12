@@ -1,6 +1,6 @@
 # The Definition of Done
 
-_The DoD is a clear and concise list of requirements that a User Story must adhere to for the team to call it complete. Until this list is satisfied, the user story cannot be considered complete._
+_The DoD is a clear and concise list of requirements that a User Story must adhere to for the team to call it complete. Until this list is satisfied the user story cannot be considered complete._
 
 Each user story and software increment must have been through this checklist:
 - JIRA / the board is kept up to date throughout the process
